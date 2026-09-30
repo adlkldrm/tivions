@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Tivions</string>
+    <string name="connect_source_subtitle">Yayın kaynağını bağla ve izlemeye başla</string>
+    <string name="m3u_link">M3U Link</string>
+    <string name="xtream_codes">Xtream Codes</string>
+    <string name="playlist_name">Playlist adı</string>
+    <string name="playlist_name_hint">Ev Listem</string>
+    <string name="m3u_url">M3U URL</string>
+    <string name="m3u_url_hint">http://sunucu-adresi.com/playlist.m3u</string>
+    <string name="remember_playlist">Bu listeyi hatırla</string>
+    <string name="connect_playlist">Playlist\'i bağla</string>
+    <string name="demo_explore">Demo Listesi ile Keşfet</string>
+    
+    <string name="nav_home">Anasayfa</string>
+    <string name="nav_tv">TV</string>
+    <string name="nav_search">Arama</string>
+    <string name="nav_movies">Filmler</string>
+    <string name="nav_series">Diziler</string>
+    
+    <string name="featured">Öne Çıkanlar</string>
+    <string name="recently_added_movies">Son Eklenen Filmler</string>
+    <string name="watch_now">Şimdi izle</string>
+    <string name="play">Oynat</string>
+    <string name="actors">Oyuncular</string>
+    <string name="seasons">Sezonlar</string>
+    <string name="episodes">Bölümler</string>
+    
+    <string name="tv_channels">Tv Kanalları</string>
+    <string name="all">Tümü</string>
+    <string name="favorites">Favoriler</string>
+    <string name="liked">Beğenilenler</string>
+    <string name="history">Geçmiş</string>
+    <string name="downloads">İndirilenler</string>
+    <string name="settings">Ayarlar</string>
+</resources>

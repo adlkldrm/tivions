@@ -1,0 +1,6 @@
+{
+  "name": "Tivions",
+  "description": "Gelişmiş IPTV Player, M3U & Xtream Codes Canlı TV, Film ve Dizi Oynatıcı",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
